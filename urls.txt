@@ -1,0 +1,2 @@
+#mounting usb 
+https://askubuntu.com/questions/683034/how-to-automatically-mount-usb-flash-drive-at-startup
